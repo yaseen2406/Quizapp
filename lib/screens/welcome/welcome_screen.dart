@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             height: _height / 30,
                           ),
                           new Text(
-                            'Saqib Javaid',
+                            'Muhammad Yaseen',
                             style: new TextStyle(
                                 fontSize: 18.0,
                                 color: Colors.white,
@@ -80,7 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             height: _height / 80,
                           ),
                           new Text(
-                            'FA17-BCS-096',
+                            'FA17-BCS-068',
                             style: new TextStyle(
                                 fontSize: 18.0,
                                 color: Colors.white,

@@ -25,7 +25,7 @@ class MainDrawer extends StatelessWidget {
                 height: 5.0,
               ),
               Text(
-                "Hassam Lattif",
+                "Muhammad Yaseen",
                 style: TextStyle(
                   fontSize: 22.0,
                   fontWeight: FontWeight.w800,
@@ -35,7 +35,7 @@ class MainDrawer extends StatelessWidget {
                 height: 5.0,
               ),
               Text(
-                "FA17-BCS-128",
+                "FA17-BCS-068",
                 style: TextStyle(
                   fontSize: 16.0,
                   fontWeight: FontWeight.w400,

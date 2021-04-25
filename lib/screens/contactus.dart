@@ -36,7 +36,7 @@ class Contactus extends StatelessWidget {
                   backgroundImage: AssetImage('assets/profile.jpeg'),
                 ),
                 Text(
-                  'Saqib Javaid',
+                  'Muhammad Yaseen',
                   style: TextStyle(
 
                     fontWeight: FontWeight.bold,
@@ -45,7 +45,7 @@ class Contactus extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  'FA17-BCS-096',
+                  'FA17-BCS-068',
                   style: TextStyle(
                     fontFamily: 'SourceSansPro',
                     fontSize: 18.0,
@@ -68,7 +68,7 @@ class Contactus extends StatelessWidget {
                       color: Colors.teal.shade400,
                     ),
                     title: Text(
-                      '+92 300 3837181',
+                      '+92 304 7450946',
                       style: TextStyle(
                         color: Colors.teal.shade400,
                       ),
@@ -83,7 +83,7 @@ class Contactus extends StatelessWidget {
                       color: Colors.teal.shade400,
                     ),
                     title: Text(
-                      'Saqibjavaid082@gmail.com',
+                      'myaseen2406@gmail.com',
                       style: TextStyle(
                         color: Colors.teal.shade400,
                       ),
